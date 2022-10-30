@@ -71,7 +71,7 @@ input[type="text"] {
 button {
   border: none;
   margin-bottom: 1rem;
-    border-radius: var(--main-border-radius);
+    border-radius: var(--bg-color);
     padding: 0.55rem;
     background-image: var(--gradient);
     color: var(--main-text-color);
