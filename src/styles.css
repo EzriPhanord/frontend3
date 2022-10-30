@@ -71,10 +71,10 @@ input[type="text"] {
 button {
   border: none;
   margin-bottom: 1rem;
-    border-radius: var(--bg-color);
+    border-radius: 20px;
     padding: 0.55rem;
     background-image: var(--gradient);
-    color: var(--main-text-color);
+    color: var(--bg-color);
     font-weight: 600;
     box-shadow: 0 0 30px -5px rgba(0, 0, 0, 0.25);
     cursor: pointer;
